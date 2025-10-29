@@ -109,9 +109,3 @@ Proyecto educativo inspirado por la curiosidad de comprender la capa física del
 | [<img src="img/auxiliar.jpg" width="120">](img/auxiliar.jpg) | Cable auxiliar | Jack 3.5mm | Audio entre dispositivos. | Cobre | Vigente. |
 
 ---
-
-📸 *Consejo:* guarda todas las imágenes cuadradas (p. ej. 400x400 px) para que las miniaturas queden alineadas.  
-💡 *Tip:* puedes añadir más secciones o subdividir por dispositivos (PC, móvil, servidor…).
-
----
-
